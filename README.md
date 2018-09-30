@@ -14,3 +14,4 @@ fdskafdksf
 ```
 <img src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
 https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
+<a href='https://www.baidu.com'>231434123412</a>
