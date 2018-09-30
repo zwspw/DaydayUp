@@ -61,7 +61,7 @@
 
 
 
-<div alin=center>
+<div align=center>
 
    <a href='https://www.cnblogs.com/hongdiandian/p/8317989.html'>vue-cli脚手架之build文件夹上半部</a>
 
