@@ -2,11 +2,13 @@
 
  ## 关于vue结构优化
   脚手架总体结构（文件夹）：
-  1.build
-  2、config
-  3、node-modules
-  4、src
-  5、static
+* build
+- config
+- node-modules
+- src
+* static
+  
+
  
  
  
