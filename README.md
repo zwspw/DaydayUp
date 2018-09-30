@@ -1,6 +1,6 @@
 # vue脚手架结构
 
- ## vue脚手架总文件夹结构
+ ### vue脚手架总文件夹结构
 - build
 - config
 - node-modules
