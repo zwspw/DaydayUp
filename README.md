@@ -2,7 +2,7 @@
 
  ## 关于vue结构优化
   脚手架总体结构（文件夹）：
-- build
+- build（）
 - config
 - node-modules
 - src
