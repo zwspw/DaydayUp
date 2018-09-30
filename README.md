@@ -1,6 +1,12 @@
-# 学习笔记
+# vue项目优化方案总结
 
- ## 关于shell脚本的学习
+ ## 关于vue结构优化
+  脚手架总体结构（文件夹）：
+  1.build
+  2、config
+  3、node-modules
+  4、src
+  5、static
  
  
  
@@ -13,5 +19,4 @@
 fdskafdksf
 ```
 <img src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
-https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 <a href='https://www.baidu.com'>231434123412</a>
