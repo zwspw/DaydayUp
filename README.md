@@ -1,21 +1,14 @@
-# vue项目优化方案总结
+# vue脚手架结构
 
- ## 关于vue结构优化
-  脚手架总体结构（文件夹）：
-- build（）
+ ## vue脚手架总文件夹结构
+- build
 - config
 - node-modules
 - src
 - static
-  
+<div align=center><img width="150" height="150" src="https://images2017.cnblogs.com/blog/916533/201801/916533-20180118181001443-1283702699.png"/></div>
+### build
 
- 
- 
- 
- |列名1|列名2|
-|:---|:---|
-|列1的内容1|列2的内容1|
-|列1的内容2|列2的内容2|
 
 ```
 fdskafdksf
