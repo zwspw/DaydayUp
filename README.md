@@ -57,7 +57,7 @@
 
 
 
-
+<div alin=center>
 
 <a href='https://www.cnblogs.com/hongdiandian/p/8317989.html'>vue-cli脚手架之build文件夹上半部</a>
 
@@ -72,3 +72,4 @@
 <a href='https://www.cnblogs.com/hongdiandian/p/8321039.html'>vue-cli脚手架之package.json</a>
 
 <a href='https://www.cnblogs.com/hongdiandian/p/8321741.html'>vue-cli脚手架之其他文件解释</a>
+</div>
