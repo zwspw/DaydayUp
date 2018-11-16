@@ -8,4 +8,4 @@
 
 ![Image text](https://github.com/zwspw/Img-All/blob/master/node%E5%9B%BE%E7%89%87/node1.png)
 
-![Image text](https://github.com/zwspw/Img-All/blob/master/node%E5%9B%BE%E7%89%87/node1.png)
+![Image text](https://github.com/zwspw/Img-All/blob/master/node%E5%9B%BE%E7%89%87/node2.png)
