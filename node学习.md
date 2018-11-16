@@ -6,4 +6,6 @@
 
 `2. 输入node 按回车,进入node 环境下, 输入console.log(‘hello world！’)    =====》  回车 `
 
-![Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
+![Image text](https://github.com/zwspw/Img-All/blob/master/node%E5%9B%BE%E7%89%87/node1.png)
+
+![Image text](https://github.com/zwspw/Img-All/blob/master/node%E5%9B%BE%E7%89%87/node1.png)
