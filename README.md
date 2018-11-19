@@ -10,7 +10,7 @@
 * [axios](https://github.com/zwspw/-study/blob/master/axios.md)
 * [抓包工具Fiddler](https://www.cnblogs.com/yyhh/p/5140852.html)
 * [node学习](https://github.com/zwspw/-study/blob/master/node%E5%AD%A6%E4%B9%A0.md)
-
+* [Python学习](https://github.com/zwspw/-study/blob/master/Python%E5%AD%A6%E4%B9%A0.md)
 
 
 
