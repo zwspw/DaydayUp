@@ -1,4 +1,4 @@
-### Python学习
+### Python基础学习
 
 1.安装python（3.7.x） 运行exe文件 (安装时勾选 Add Python 3.7.x To Path)
 
