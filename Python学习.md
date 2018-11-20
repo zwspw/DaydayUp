@@ -1,5 +1,7 @@
 ### Python基础学习
-
+***
+. [学习来源](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+***
 1.安装python（3.7.x） 运行exe文件 (安装时勾选 Add Python 3.7.x To Path)
 
 * <a target="_blank" href="https://www.python.org/ftp/python/3.7.0/python-3.7.0-amd64.exe">64位安装程序</a>
