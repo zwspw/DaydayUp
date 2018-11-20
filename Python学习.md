@@ -22,11 +22,9 @@
 `2.if else条件语句`
 
 ```
-例：   a = 100
+例： a = 100
     if a >= 0:
       print(a)
     else:
       print(-a)
-
-
 ```
