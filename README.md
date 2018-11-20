@@ -7,7 +7,7 @@
 
 #### 目录
 
-* [axios](https://github.com/zwspw/-study/blob/master/axios.md)
+* [axios](https://github.com/zwspw/-study/blob/master/all-content/axios%E5%86%85%E5%AE%B9/axios.md)
 * [vue2.0](https://github.com/zwspw/-study/blob/master/vue2.0.md)
 * [文档流](https://github.com/zwspw/-study/blob/master/%E6%96%87%E6%A1%A3%E6%B5%81%E5%AD%A6%E4%B9%A0.md)
 * [树形结构转换](https://github.com/zwspw/-study/blob/master/%E6%A0%91%E5%BD%A2json%E8%BD%AC%E6%8D%A2.md)
