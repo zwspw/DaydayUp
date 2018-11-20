@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/vue-3.0-brightgreen.svg" alt="vue">
   </a>
   <a href="https://github.com/ElemeFE/element">
-    <img src="https://img.shields.io/badge/element-ui-2.4.6-brightblue.svg" alt="element-ui">
+    <img src="https://img.shields.io/badge/element--ui-2.4.6-brightblue.svg" alt="element-ui">
   </a>
   <a href="https://github.com/nodejs/node">
     <img src="https://img.shields.io/badge/nodejs-11.2.0-gureen.svg" alt="nodejs">
