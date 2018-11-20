@@ -7,10 +7,19 @@
     <img src="https://img.shields.io/badge/vue-3.0-brightgreen.svg" alt="vue">
   </a>
   <a href="https://github.com/ElemeFE/element">
-    <img src="https://img.shields.io/badge/element--ui-2.4.6-brightblue.svg" alt="element-ui">
+    <img src="https://img.shields.io/badge/element--ui-2.4.6-green.svg" alt="element-ui">
   </a>
   <a href="https://github.com/nodejs/node">
-    <img src="https://img.shields.io/badge/nodejs-11.2.0-gureen.svg" alt="nodejs">
+    <img src="https://img.shields.io/badge/nodejs-11.2.0-red.svg" alt="nodejs">
+  </a>
+  <a href="https://github.com/TheAlgorithms/Python">
+    <img src="https://img.shields.io/badge/Python-3.7.0-blue.svg" alt="Python">
+  </a>
+  <a href="https://github.com/axios/axios">
+    <img src="https://img.shields.io/badge/axios-0.18.0-orange.svg" alt="axios">
+  </a>
+  <a href="https://github.com/zwspw/-study/blob/master/all-content/%E9%A1%B9%E7%9B%AE%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E5%86%85%E5%AE%B9/%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9.md">
+    <img src="https://img.shields.io/badge/other-1.0-ff69b4.svg" alt="other">
   </a>
 </p>
 
