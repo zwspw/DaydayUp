@@ -41,7 +41,7 @@
  #### 关于
 
  
-> 作者： zwspw  
+> 作者： [zwspw](https://github.com/zwspw/-study/blob/master/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B.md)  
 
 > 时间： 不定期更新
 
