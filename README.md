@@ -22,9 +22,9 @@
     <img src="https://img.shields.io/badge/other-1.0-ff69b4.svg" alt="other">
   </a>
 </p>
-<br>
-<br>
 
+不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。
+<br><br>
 ### 个人学习园地 ---   ლ(╹◡╹ლ)
 ----------------
 
