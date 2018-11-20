@@ -19,9 +19,11 @@
 > 时间： 不定期更新
 
 
-https://github.com/zwspw/Img-All/blob/master/wechat/wechat.jpg
 
 
+<div align="center" style='height:150px;width:150px'>  
+<img src="https://github.com/zwspw/Img-All/blob/master/wechat/wechat.jpg" alt="微信"/>
+</div>
 
 
 
