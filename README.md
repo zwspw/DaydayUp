@@ -1,4 +1,5 @@
-<h1 align='center'>前端学习  ------个人学习园地</h1>
+### 前端学习  ------ 个人学习园地
+***
 
 ##目录
 ---------------
@@ -8,7 +9,7 @@
 * [Python](https://github.com/zwspw/-study/blob/master/all-content/Python%E5%86%85%E5%AE%B9/Python%E5%AD%A6%E4%B9%A0.md)
 * [其他](https://github.com/zwspw/-study/blob/master/all-content/%E9%A1%B9%E7%9B%AE%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E5%86%85%E5%AE%B9/%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9.md)
     
-***
+
  
  ##关于
  ----------------
@@ -17,20 +18,3 @@
 > 作者： zwspw  
 
 > 时间： 不定期更新
-
-
-
-
-<div>  
-    <img src="https://github.com/zwspw/Img-All/blob/master/wechat/wechat.jpg"  alt="微信"/>
-</div>
-
-
-
-
-
-
-
-
-
-
