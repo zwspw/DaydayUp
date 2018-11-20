@@ -21,7 +21,8 @@
 
 
 
-<div> weChat： 
+<div>  
+    <div>weChat：</div>
     <img src="https://github.com/zwspw/Img-All/blob/master/wechat/wechat.jpg"  alt="微信"/>
 </div>
 
