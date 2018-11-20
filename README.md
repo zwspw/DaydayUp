@@ -1,10 +1,4 @@
 ### 前端学习  ------个人学习园地
-
-***
-
-
-
-
 #### 目录
 
 * [axios](https://github.com/zwspw/-study/blob/master/all-content/axios%E5%86%85%E5%AE%B9/axios.md)
