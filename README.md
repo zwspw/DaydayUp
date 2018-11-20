@@ -1,6 +1,7 @@
-## 前端学习  ------个人学习园地
+<h1 align='center'>前端学习  ------个人学习园地</h1>
 
-#### 目录
+##目录
+---------------
 * [axios](https://github.com/zwspw/-study/blob/master/all-content/axios%E5%86%85%E5%AE%B9/axios.md)
 * [vue2.0](https://github.com/zwspw/-study/blob/master/all-content/vue2.0%E5%86%85%E5%AE%B9/vue2.0.md)
 * [node](https://github.com/zwspw/-study/blob/master/all-content/node%E5%86%85%E5%AE%B9/node%E5%AD%A6%E4%B9%A0.md)
@@ -12,7 +13,11 @@
  <br> 
  <br> 
  <br> 
+ 
+ 
+ ##关于
  ----------------
+
  
 > 作者： zwspw  
 
