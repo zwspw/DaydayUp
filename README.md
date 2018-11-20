@@ -13,7 +13,7 @@
  <br> 
  <br> 
  
-***
+----------------
 > 作者： zwspw  
 
 > 时间： 不定期更新
@@ -21,8 +21,8 @@
 
 
 
-<div align="center" style='height:150px;width:150px'>  
-<img src="https://github.com/zwspw/Img-All/blob/master/wechat/wechat.jpg" alt="微信"/>
+<div align="center"> weChat： 
+    <img src="https://github.com/zwspw/Img-All/blob/master/wechat/wechat.jpg" alt="微信"/>
 </div>
 
 
