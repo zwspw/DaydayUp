@@ -1,6 +1,16 @@
 
 # vue脚手架结构
 
+```
+vue 2.0
+
+###全局安装 vue-cli
+npm install --global vue-cli
+
+###创建一个基于 webpack 模板的新项目
+vue init webpack my-project
+```
+
  ### vue脚手架总文件夹结构
     - build
     - config
