@@ -1,49 +1,110 @@
-<p align="center">
-  <img width="320" src="https://github.com/zwspw/Img-All/blob/master/log/logo.png">
-</p>
+# Funday -- 个人简历模板
 
-<p align="center">
-  <a href="https://github.com/vuejs/vue">
-    <img src="https://img.shields.io/badge/vue-3.0-brightgreen.svg" alt="vue">
-  </a>
-  <a href="https://github.com/ElemeFE/element">
-    <img src="https://img.shields.io/badge/element--ui-2.4.6-green.svg" alt="element-ui">
-  </a>
-  <a href="https://github.com/nodejs/node">
-    <img src="https://img.shields.io/badge/nodejs-11.2.0-red.svg" alt="nodejs">
-  </a>
-  <a href="https://github.com/TheAlgorithms/Python">
-    <img src="https://img.shields.io/badge/Python-3.7.0-blue.svg" alt="Python">
-  </a>
-  <a href="https://github.com/axios/axios">
-    <img src="https://img.shields.io/badge/axios-0.18.0-orange.svg" alt="axios">
-  </a>
-  <a href="https://github.com/zwspw/-study/blob/master/all-content/%E9%A1%B9%E7%9B%AE%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E5%86%85%E5%AE%B9/%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9.md">
-    <img src="https://img.shields.io/badge/other-1.0-ff69b4.svg" alt="other">
-  </a>
-</p>
-<br>
-共勉❤：不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。
-<br>
+<a href='http://gitee.com/xiaodan_yu/resume.io/stargazers'><img src='http://gitee.com/xiaodan_yu/resume.io/badge/star.svg?theme=dark' alt='star'></img></a>
+<a href='http://gitee.com/xiaodan_yu/resume.io/members'><img src='http://gitee.com/xiaodan_yu/resume.io/badge/fork.svg?theme=dark' alt='fork'></img></a>
 
-### 个人学习园地 ---   ლ(╹◡╹ლ)
-----------------
+## 名字释义
 
-#### 目录
+<strong>Funday</strong>，是星期八，开心Day的意思。以前很多玩笑都是说要等星期八才能实现，OK，Then it happened now!
 
-* [axios](https://github.com/zwspw/-study/blob/master/all-content/axios%E5%86%85%E5%AE%B9/axios.md)
-* [vue-cli2.0](https://github.com/zwspw/-study/blob/master/all-content/vue2.0%E5%86%85%E5%AE%B9/vue2.0.md)
-* [vue-cli3.0](https://github.com/zwspw/-study/blob/master/all-content/vue2.0%E5%86%85%E5%AE%B9/vue2.0.md)
-* [node](https://github.com/zwspw/-study/blob/master/all-content/node%E5%86%85%E5%AE%B9/node%E5%AD%A6%E4%B9%A0.md)
-* [Python](https://github.com/zwspw/-study/blob/master/all-content/Python%E5%86%85%E5%AE%B9/Python%E5%AD%A6%E4%B9%A0.md)
-* [其他](https://github.com/zwspw/-study/blob/master/all-content/%E9%A1%B9%E7%9B%AE%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E5%86%85%E5%AE%B9/%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9.md)
+希望每个人在使用了Funday之后在找工作的时候都是处在星期八，开开心心，快快乐乐，轻轻松松拿到心仪的多金的Offer！
 
- #### 关于
+## 使用方法
 
+1. 修改`_config.yml`文件中的内容
+
+```
+# 个人名称或昵称
+name: xiaoxiao
+# 页面个人头像信息中地址展示信息
+location: 大连
+# 页面个人头像信息中公司展示信息
+company: IBM
+# 页面个人头像信息中职位展示信息
+position: Java开发工程师
+# 页面个人头像信息中GITHUB展示信息
+github: https://github.com/XXXX
+# 页面个人头像信息中Facebook展示信息
+facebook: https://www.facebook.com/XXXX
+# 页面个人头像信息中电话展示信息
+phone: 1580424XXXX
+# 页面个人头像信息中EMAIL展示信息
+email: xxxx@xxx.com
+
+#本项目的baseurl
+baseurl: "/resume.io"
+```
+
+2. 修改个人头像信息
+
+	修改 `_config.yml` 文件中内容
+
+3. 修改基本信息
  
-> 作者： [zwspw](https://github.com/zwspw/-study/blob/master/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B.md)  
+	修改 `_includes/resumer_01-basic.html` 文件中内容
 
-> 时间： 不定期更新   测试测试这是第二个分支上面的
+4. 修改职业技能
+
+    修改 `_includes/resumer_02-profetional.html` 文件中内容
+
+5. 修改教育经历
+
+    修改 `_includes/resumer_03-education.html` 文件中内容
+
+6. 修改工作经历
+
+    修改 `_includes/resumer_04-experience.html` 文件中内容
+
+7. 修改获得证书
+
+	修改 `_includes/resumer_05-certification.html` 文件中内容
+
+8. 修改个人作品
+
+	修改 `_includes/resumer_06-personal_project.html` 文件中内容
 
 
+## 本地搭建
 
+在本地安装[Jekyll](https://jekyllrb.com/).
+然后在项目目录执行`jekyll s`命令,如下
+
+```bash
+[root@localhost ~]# jekyll s
+Configuration file: C:/..../resume.io/_config.yml
+            Source: C:/..../resume.io
+       Destination: C:/..../resume.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+                    done in 0.371 seconds.
+  Please add the following to your Gemfile to avoid polling for changes:
+    gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+ Auto-regeneration: enabled for 'C:/..../resume.io'
+    Server address: http://127.0.0.1:4000/resume.io/
+  Server running... press ctrl-c to stop.
+```
+
+然后可以访问[http://127.0.0.1:4000/resume.io/](http://127.0.0.1:4000/resume.io/)来访问本地的服务了。
+
+
+## 在线预览
+
+[非你莫属--个人简历模板](http://xiaodan_yu.gitee.io/resume.io)
+
+## 截图预览
+
+![01.png](http://xiaodan_yu.gitee.io/resume.io/snapshot/11_01.png)
+
+![02.png](http://xiaodan_yu.gitee.io/resume.io/snapshot/11_02.png)
+
+![03.png](http://xiaodan_yu.gitee.io/resume.io/snapshot/11_03.png)
+
+![04.png](http://xiaodan_yu.gitee.io/resume.io/snapshot/11_04.png)
+
+
+## 参考
+
+本简历模板基于[Certy](http://sc.chinaz.com/moban/170307198220.htm)修改而来。保留了所有的样式，基于Jekyll重构了页面框架，并去掉了一些没有必要的内容，整合一页简历。
+
+## 开源协议
+[MIT](https://gitee.com/xiaodan_yu/resume.io/blob/master/LICENSE)
