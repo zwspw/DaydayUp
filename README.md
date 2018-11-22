@@ -43,7 +43,7 @@
  #### 关于
 
  
-> 作者： [zwspw](https://github.com/zwspw/-study/blob/master/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B.md)  
+> 作者： [zwspw](https://zwspw.github.io/Resume-liuzw/)  
 
 > 时间： 不定期更新
 
