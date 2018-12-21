@@ -40,7 +40,6 @@
 
 * [表白](https://zwspw.github.io/DaydayUp/)
 
-* [前端分享](https://github.com/zwspw/DaydayUp/blob/master/all-content/shareContent.md)
  #### 关于
 
  
