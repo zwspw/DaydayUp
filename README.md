@@ -36,7 +36,7 @@
 * [Python](https://github.com/zwspw/-study/blob/master/all-content/Python%E5%86%85%E5%AE%B9/Python%E5%AD%A6%E4%B9%A0.md)
 * [vue2.x内容](https://github.com/zwspw/DaydayUp/tree/master/all-content/vue2.0%E5%86%85%E5%AE%B9)
 * [其他](https://github.com/zwspw/-study/blob/master/all-content/%E9%A1%B9%E7%9B%AE%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E5%86%85%E5%AE%B9/%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9.md)
-* [博客笔记](https://github.com/jiangzhenggeng/blog)
+* [博客笔记](https://github.com/MuYunyun/blog)
 
 * [表白](https://zwspw.github.io/DaydayUp/)
 
