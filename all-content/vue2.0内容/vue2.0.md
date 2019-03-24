@@ -102,3 +102,9 @@ is
 :is
 是查找父组件中的一个赋值，然后找到相应的组件
 ```
+4.vuex比较简单的用法（不是特别规范的用法）
+```
+首先定义state mutation
+然后 mutation中写改变state数值的方法
+最后在组件中派发commit事件 调用mutation中的方法
+```
