@@ -108,3 +108,7 @@ is
 然后 mutation中写改变state数值的方法
 最后在组件中派发commit事件 调用mutation中的方法
 ```
+5.data为什么是函数不是一个对象？
+```
+https://www.jianshu.com/p/839cbef3be41
+```
